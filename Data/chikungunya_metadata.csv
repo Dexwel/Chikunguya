@@ -1,0 +1,71 @@
+strain,date,country,patient_status
+HM045823.1,28/12/2010,Angola,dead
+AB908054.1,30/10/2014,Angola,dead
+LC259094.1,22/12/2017,Angola,dead
+KX262996.1,12/10/2016,Cameroon,convalescent
+KJ508821.1,12/01/2016,Cameroon,dead
+MK355076.1,24/02/2020,Cameroon,dead
+OL692741.1,27/12/2021,Cameroon,dead
+MT666073.1,27/02/2021,Cameroon,convalescent
+MT666071.1,27/02/2021,Cameroon,convalescent
+MT666072.1,27/02/2021,Cameroon,dead
+OL692740.1,27/12/2021,Cameroon,convalescent
+EF051584.1,14/07/2016,Cameroon,convalescent
+KJ508819.1,12/01/2016,Cameroon,convalescent
+MT023791.1,30/11/2020,Djibouti,convalescent
+DQ515990.1,26/07/2016,Guinea,convalescent
+GQ387365.1,25/07/2016,Guinea,convalescent
+DQ515985.1,26/07/2016,Guinea,dead
+DQ515989.1,26/07/2016,Guinea,convalescent
+DQ515991.1,26/07/2016,Guinea,dead
+KC524770.1,28/09/2013,Guinea,convalescent
+MF773569.1,20/03/2018,Guinea,convalescent
+KC524771.1,28/09/2013,Guinea,dead
+KC524772.1,28/09/2013,Guinea,dead
+GQ387366.1,25/07/2016,Guinea,dead
+MT380147.1,17/11/2020,Kenya,convalescent
+MT380155.1,17/11/2020,Kenya,convalescent
+MT380152.1,17/11/2020,Kenya,convalescent
+MT380156.1,17/11/2020,Kenya,dead
+MT992066.1,17/03/2021,Kenya,dead
+MT380148.1,17/11/2020,Kenya,dead
+MT380153.1,17/11/2020,Kenya,dead
+MT992067.1,17/03/2021,Kenya,convalescent
+MT992068.1,17/03/2021,Kenya,convalescent
+MT380159.1,17/11/2020,Kenya,dead
+EU244646.1,26/07/2016,Madagascar,convalescent
+KP003808.1,13/01/2015,Madagascar,convalescent
+HM045786.1,28/12/2010,Nigeria,convalescent
+HM045807.1,28/12/2010,Nigeria,dead
+MK935343.1,28/08/2019,Republic of Congo,convalescent
+KP003811.1,13/01/2015,Republic of Congo,dead
+KP003807.1,13/01/2015,Republic of Congo,convalescent
+KP003808.1,13/01/2015,Republic of Congo,convalescent
+KP003810.1,13/01/2015,Republic of Congo,convalescent
+KP003809.1,13/01/2015,Republic of Congo,dead
+KP003813.2,11/08/2017,Republic of Congo,dead
+MK935344.1,28/08/2019,Republic of Congo,dead
+KP003812.1,13/01/2015,Republic of Congo,convalescent
+JQ943706.1,14/07/2012,Senegal,convalescent
+MK028837.1,23/07/2019,Senegal,dead
+JQ943717.1,14/07/2012,Senegal,convalescent
+JQ943714.1,14/07/2012,Senegal,convalescent
+JQ943710.1,14/07/2012,Senegal,dead
+JQ943708.1,14/07/2012,Senegal,convalescent
+JQ943705.1,14/07/2012,Senegal,convalescent
+JQ943718.1,14/07/2012,Senegal,dead
+JQ943719.1,14/07/2012,Senegal,dead
+KX262986.1,12/10/2016,Senegal,dead
+MW161451.1,11/05/2021,Sudan,convalescent
+MW161441.1,11/05/2021,Sudan,dead
+MW161456.1,11/05/2021,Sudan,convalescent
+MW161459.1,11/05/2021,Sudan,dead
+MW161443.1,11/05/2021,Sudan,convalescent
+MW161450.1,11/05/2021,Sudan,dead
+MW161442.1,11/05/2021,Sudan,dead
+MW161449.1,11/05/2021,Sudan,convalescent
+MW161444.1,11/05/2021,Sudan,dead
+MW161447.1,11/05/2021,Sudan,convalescent
+ON009843.1,12/04/2022,Tanzania,convalescent
+AF339485.1,24/07/2016,Tanzania,convalescent
+HM045811.1,28/12/2010,Tanzania,convalescent
