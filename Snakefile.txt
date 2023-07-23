@@ -4,9 +4,9 @@ rule all:
 
 rule files:
     params:
-        input_fasta = "data/chi.fasta",
+        input_fasta = "data/sequences.fasta",
         dropped_strains = "config/strain.txt",
-        reference = "config/chi.gb",
+        reference = "config/reference.gb",
         colors = "config/colors.tsv",
         auspice_config = "config/auspice_config.json",
         description = "config/description.md"
