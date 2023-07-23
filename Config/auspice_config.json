@@ -1,9 +1,9 @@
 {
-  "title": "Tutorial Nextstrain build for Zika virus",
+  "title": "Chikunguya",
   "maintainers": [
-    {"name": "Trevor Bedford", "url": "http://bedford.io/team/trevor-bedford/"}
+    {"name": "Daniel Adediran", "url": "https://github.com/Dexwel/Chikunguya/"}
   ],
-  "build_url": "https://github.com/nextstrain/zika-tutorial",
+  "build_url": "https://github.com/Dexwel/Chikunguya",
   "colorings": [
     {
       "key": "gt",
