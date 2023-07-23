@@ -4,9 +4,9 @@ rule all:
 
 rule files:
     params:
-        input_fasta = "data/zika.fasta",
-        dropped_strains = "config/dropped_strains.txt",
-        reference = "config/zika_reference.gb",
+        input_fasta = "data/chi.fasta",
+        dropped_strains = "config/strain.txt",
+        reference = "config/chi.gb",
         colors = "config/colors.tsv",
         auspice_config = "config/auspice_config.json",
         description = "config/description.md"
